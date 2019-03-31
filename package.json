@@ -1,0 +1,14 @@
+{
+  "name": "1.0.0",
+  "version": "1.0.0",
+  "description": "Primer Trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elizabeth Muñoz emunoz2793@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
